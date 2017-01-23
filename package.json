@@ -1,6 +1,6 @@
 {
-  "name": "semantic-ui-less",
-  "version": "2.2.3",
+  "name": "@cliffedge/semantic-ui-less",
+  "version": "2.2.7",
   "title": "Semantic UI",
   "description": "LESS Only distribution of Semantic UI",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Semantic-Org/Semantic-UI-LESS.git"
+    "url": "git://github.com/eXtreme/Semantic-UI-LESS.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
